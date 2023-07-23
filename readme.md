@@ -18,4 +18,4 @@ I think it's better to watch [this tutorial](https://www.youtube.com/watch?v=jIt
 - Use Ksql to work with data streams.
 - Use Kafka connector to provide data to a Telegram bot."
 
-![demo](screenshoots/demo.png)
+![demo](screenshots/demo.png)
